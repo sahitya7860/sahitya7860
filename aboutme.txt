@@ -1,0 +1,6 @@
+Abbireddy Venkata Sahitya
+3rd-bca-2
+Version Control and Collaboration:
+GitHub is built on Git, a powerful version control system, enabling efficient tracking of code changes, branching for parallel development, and merging contributions from multiple collaborators.
+Issue Tracking and Project Management:
+Built-in features like issue tracking, project boards, and milestones allow for effective management of tasks, bug reporting, and progress tracking within projects. 
